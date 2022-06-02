@@ -1,14 +1,14 @@
 # reactjs
 ## tool chain
-  SPA: Create React App
-  SSR: Next.js
-  Static conent: Gatsby
+  - SPA: Create React App
+  - SSR: Next.js
+  - Static conent: Gatsby
   
-  static server: serve
-  compiler: babel
-  CLI: Create React App
+  - static server: serve
+  - compiler: babel
+  - CLI: Create React App
   
-  Javascript bundler: Rollup
+  - Javascript bundler: Rollup
 ## React App
   - React Component
     + React components
