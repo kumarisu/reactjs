@@ -9,6 +9,7 @@
   - CLI: Create React App
   
   - Javascript bundler: Rollup
+  - bundler: Parcel
 ## React App
   - React Component
     + React components
