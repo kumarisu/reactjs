@@ -39,3 +39,16 @@ Methodology:
 - styled compoenent: comp level styles
 - sass stylesheet: support sass based css styles by converting the styles to normal css at build time.
 - Post processing stylesheet: support post processing styles by converting the styles to normal css at build time.
+
+
+## Component
+### Properties
+- props
+- support value types
+  + string
+  + number
+  + Datetime
+  + Array
+  + List
+  + Objects
+ 
